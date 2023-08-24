@@ -1,3 +1,3 @@
-# go_babu_steps
-Repositório de desafio de GO do CODE WARS
+# go_baby_steps
+Repositório de estudo da linguagem GO
 
